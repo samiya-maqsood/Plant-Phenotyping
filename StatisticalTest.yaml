@@ -1,0 +1,9 @@
+t-test results:
+data:  group1_weight and group2_weight
+t = 1.1913, df = 16.524, p-value = 0.2504
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.2875162  1.0295162
+sample estimates:
+mean of x mean of y 
+    5.032     4.661
