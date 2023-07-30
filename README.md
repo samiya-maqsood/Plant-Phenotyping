@@ -1,6 +1,6 @@
 # Plant Phenotyping Analysis using the PlantGrowth Dataset
 
-![Plant Phenotyping](https://github.com/samiya-maqsood/Plant-Phenotyping/blob/main/PlantPhenotypingBar.png)
+![Plant Phenotyping](https://github.com/samiya-maqsood/Plant-Phenotyping/blob/main/PlantPhenotypingBox.png)
 
 ## Introduction
 
